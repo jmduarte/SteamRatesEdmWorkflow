@@ -128,7 +128,7 @@ parser.add_option(
     metavar="INT",
 )
 parser.add_option(
-    "-e",
+    "-x",
     "--exclude",
     dest="exclude",
     type="str",
